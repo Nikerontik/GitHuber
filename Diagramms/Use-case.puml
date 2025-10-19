@@ -1,0 +1,23 @@
+@startuml
+
+left to right direction
+
+actor "Сотрудник" as Employee
+actor "Работник отвечающий за ПО" as SoftwareManager
+
+usecase "Авторизовывается" as Auth
+usecase "Просматривает БД" as ViewTopics
+usecase "Запускает проверку на ПО" as RunSoftwareCheck
+usecase "Управляет затратами на ПО" as ManageCosts
+usecase "Выделяет бюджет на ПО" as AllocateBudget
+
+Employee --> Auth
+Employee --> RunSoftwareCheck
+
+SoftwareManager --> Auth
+SoftwareManager --> ViewTopics
+SoftwareManager --> ManageCosts
+SoftwareManager --> AllocateBudget
+SoftwareManager --> RunSoftwareCheck
+
+@enduml
