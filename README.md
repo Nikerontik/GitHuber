@@ -22,4 +22,5 @@
 - Просмотр данных в системе
 
 # ER-диаграмма
-![Diagramma](https://github.com/Nikerontik/GitHuber/blob/main/Pictures/Picture.png)
+![Diagramma](https://github.com/Nikerontik/GitHuber/blob/main/Pictures/ER-diagram.png)
+
