@@ -1,17 +1,26 @@
 [
   {
-    "id_pc": 1,
+    "id": 1,
     "email": "gadakoifrazu-3290@yopmail.com",
-    "id_proga": 1
+    "software": {
+      "name": "Visual Studio",
+      "price": "80$"
+    }
   },
   {
-    "id_pc": 2,
+    "id": 2,
     "email": "jojeuneyecau-4122@yopmail.com",
-    "id_proga": 2
+    "software": {
+      "name": "PyCharm",
+      "price": "50$"
+    }
   },
   {
-    "id_pc": 3,
+    "id": 3,
     "email": "mebitrudimma-3668@yopmail.com",
-    "id_proga": 3
+    "software": {
+      "name": "JetBrains Package",
+      "price": "45$"
+    }
   }
 ]

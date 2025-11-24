@@ -1,4 +1,4 @@
-id_pc,email,id_proga
-1,gadakoifrazu-3290@yopmail.com,1
-2,jojeuneyecau-4122@yopmail.com,2
-3,mebitrudimma-3668@yopmail.com,3
+﻿ID компьютера;Email пользователя;Название ПО;Стоимость ПО
+1;gadakoifrazu-3290@yopmail.com;Visual Studio;80$
+2;jojeuneyecau-4122@yopmail.com;PyCharm;50$
+3;mebitrudimma-3668@yopmail.com;JetBrains Package;45$

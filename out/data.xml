@@ -1,18 +1,27 @@
-<?xml version="1.0"?>
-<data>
-  <item>
-    <id_pc>1</id_pc>
+<?xml version="1.0" encoding="UTF-8"?>
+<computers>
+  <computer>
+    <id>1</id>
     <email>gadakoifrazu-3290@yopmail.com</email>
-    <id_proga>1</id_proga>
-  </item>
-  <item>
-    <id_pc>2</id_pc>
+    <software>
+        <name>Visual Studio</name>
+        <price>80$</price>
+    </software>
+  </computer>
+  <computer>
+    <id>2</id>
     <email>jojeuneyecau-4122@yopmail.com</email>
-    <id_proga>2</id_proga>
-  </item>
-  <item>
-    <id_pc>3</id_pc>
+    <software>
+        <name>PyCharm</name>
+        <price>50$</price>
+    </software>
+  </computer>
+  <computer>
+    <id>3</id>
     <email>mebitrudimma-3668@yopmail.com</email>
-    <id_proga>3</id_proga>
-  </item>
-</data>
+    <software>
+        <name>JetBrains Package</name>
+        <price>45$</price>
+    </software>
+  </computer>
+</computers>
